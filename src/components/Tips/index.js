@@ -13,7 +13,6 @@ import img9 from '../../images/09.png';
 import img10 from '../../images/10.png';
 import img11 from '../../images/11.png';
 import img12 from '../../images/12.png';
-import img13 from '../../images/13.png';
 
 const items = [
     {
