@@ -13,6 +13,7 @@ import {
 
 import Suggestions from '../../components/Suggestions';
 import Activities from '../../components/Activities';
+import Tips from '../../components/Tips';
 
 export default function Home() {
     return (
@@ -31,6 +32,7 @@ export default function Home() {
 
                 <Suggestions />
                 <Activities />
+                <Tips />
             </Container>
         </Wrapper>
     );
