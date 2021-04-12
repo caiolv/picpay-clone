@@ -2,6 +2,7 @@
 
 Este projeto foi feito para treinar os conhecimentos de front-end na criação de um clone do aplicativo PicPay utilizando React Native, Styled Components e React Navigation 5.
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/caio-oliveira-b1365a124/">
     <img alt="linkedin" src="https://img.shields.io/badge/-Caio%20Oliveira-0a66c2?style=flat&logo=Linkedin&logoColor=white">
@@ -12,6 +13,13 @@ Este projeto foi feito para treinar os conhecimentos de front-end na criação d
   </a>
 </p>
 
+<p align="center">
+
+<img alt="screenshot1" src="../assets/screenshot1.png" width="30%">
+<img alt="screenshot1" src="../assets/screenshot2.png" width="30%">
+<img alt="screenshot1" src="../assets/screenshot3.png" width="30%">
+
+</p>
 
 
 Obs: este projeto utiliza o [Expo](https://expo.io/).
